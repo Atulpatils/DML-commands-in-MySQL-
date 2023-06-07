@@ -2,10 +2,10 @@
 Data Manipulation Language (DML)
 
 Here are some more details about the DML commands in MySQL:
-# INSERT
-# UPDATE
-# DELETE
-# MERGE
+1] INSERT
+2] UPDATE
+3] DELETE
+4] MERGE
 
 # INSERT:
  The INSERT command is used to insert data into a table. The data to be inserted is specified in the VALUES clause. 
