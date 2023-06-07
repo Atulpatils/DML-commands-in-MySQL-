@@ -21,7 +21,3 @@ Here are some more details about the DML commands in MySQL:
  The rows to be deleted are specified in the WHERE clause. 
  The WHERE clause can contain any valid SQL expression.
  
- # MERGE:
- The MERGE command is used to insert or update data in a table. 
- The MERGE command can be used to perform an upsert operation, which is a combination of an insert and an update. 
- If the row specified in the ON clause exists in the target table, it will be updated. If the row does not exist, it will be inserted.
